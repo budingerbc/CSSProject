@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  color: black;
+  border: 3px solid blue;
+  background-color: teal;
+}
+
+body {
+  background-color: skyblue;
+}
+
+img {
+  display: block;
+  margin: auto;
+  padding: 4px;
+}
+
+p.sub {
+  text-align: center;
+  font-size: 16px;
+}
+
+p.aboutMe{
+  font-size: 14px;
+}
+
+.panel-body {
+  background-color: skyblue;
+}
