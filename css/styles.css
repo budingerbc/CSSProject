@@ -35,3 +35,8 @@ div.aboutMe {
 .well {
   background-color: skyblue;
 }
+
+span {
+  font-style: italic;
+  font-weight: bold;
+}
